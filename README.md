@@ -155,4 +155,4 @@
 
 ###
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![Snake](https://github.com/rajiv-tathod/rajiv-rathod/blob/main/assets/snake.svg)
