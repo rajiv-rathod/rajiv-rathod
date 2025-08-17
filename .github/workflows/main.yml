@@ -2,37 +2,32 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:        # Allows manual trigger
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write   # Needed to push to main branch
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # Allows using GITHUB_TOKEN for pushes
+          persist-credentials: true
 
-      # Generate snake animation SVG
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
 
-      # Commit and push SVG to main branch
       - name: Commit and Push
         run: |
           git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
           git commit -m "Update snake animation"
           git push origin main
         env:
