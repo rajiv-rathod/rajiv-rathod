@@ -158,22 +158,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@sk.rajivrathod/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rajiv-rathod&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
