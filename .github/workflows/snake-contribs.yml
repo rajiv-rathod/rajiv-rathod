@@ -15,10 +15,10 @@ jobs:
       - name: Generate Snake Contribution Graph
         uses: platane/snk@v2
         with:
-          github_user_name: rajiv-rathod
-          # Optional settings
-          svg: true
-          scale: 3
+          with:
+  github_user_name: rajiv-rathod
+  svg: true
+  scale: 3
 
       - name: Commit and push Snake Contribution Graph
         uses: EndBug/add-and-commit@v9
