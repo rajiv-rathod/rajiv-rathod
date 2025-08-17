@@ -1,1 +1,47 @@
  
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repository
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0  # needed for pushing branches
+
+      # 2️⃣ Generate the snake animation
+      - name: Generate Snake
+        id: snake
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # 3️⃣ Move SVG to output folder
+      - name: Prepare output
+        run: |
+          mkdir -p dist
+          mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
+
+      # 4️⃣ Push to output branch
+      - name: Commit & Push to output branch
+        run: |
+          git config --global user.name "${{ github.repository_owner }}"
+          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git checkout -B output
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || echo "Nothing to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.first_token }}
