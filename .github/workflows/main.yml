@@ -1,47 +1,52 @@
- 
-name: Generate Snake Animation
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+      # every 6 hours
+    - cron: "0 */6 * * *"
+
+# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
-permissions:
-  contents: write
-
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # 1️⃣ Checkout repository
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true
-          fetch-depth: 0  # needed for pushing branches
 
-      # 2️⃣ Generate the snake animation
-      - name: Generate Snake
-        id: snake
-        uses: platane/snk@v3
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v3
+
+    # Generates the snake  
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-
-      # 3️⃣ Move SVG to output folder
-      - name: Prepare output
-        run: |
-          mkdir -p dist
-          mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
-
-      # 4️⃣ Push to output branch
-      - name: Commit & Push to output branch
-        run: |
-          git config --global user.name "${{ github.repository_owner }}"
-          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
-          git checkout -B output
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation" || echo "Nothing to commit"
-          git push origin output --force
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.first_token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     # show the status of the build. Makes it easier for debugging (if there are any issues).
+      - name: Show build status
+        run: git status
+
+      - name: Push new files to output branch 
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
