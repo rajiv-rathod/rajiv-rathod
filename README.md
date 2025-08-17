@@ -119,9 +119,8 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-- 🔐 [Student Record System](http://studentrecord.rf.gd) – PHP + MySQL based student data manager  
-- 🤖 [Telegram Bots](https://rxd.my.canva.site/stealth-ai) – Multi-character, AI-powered group chat bots  
-- 🌌 [Astra Nova (ISRO LunarDEM)](https://github.com/adi-devv/ISRO-LunarDEM) – AI-driven gaming ecosystem + ISRO LunarDEM  
+- 🤖 [Stealth.AI](https://rxd.my.canva.site/stealth-ai) – Multi-character, AI-powered group chat bots on telegram  
+- 🌌 [Global Diplomacy Forum](https://rxd.my.canva.site/gdf) – Global Diplomacy Forum (GDF) is a youth-led platform that hosts impactful online Model UN conferences.
 
 ###
 
