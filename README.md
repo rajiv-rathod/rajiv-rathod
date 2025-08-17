@@ -155,7 +155,4 @@
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajiv-rathod/output/dist/snake.svg" alt="Snake animation" />
-</p>
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
