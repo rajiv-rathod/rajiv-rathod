@@ -153,5 +153,6 @@
 
 
 ###
-
+<p align="center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/github-contribution-grid-snake-dark.svg" />
+</p>
