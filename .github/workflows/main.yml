@@ -19,21 +19,13 @@ jobs:
         with:
           persist-credentials: true  # Allows using GITHUB_TOKEN for pushes
 
-      # Setup Node.js environment
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      # Install github-contribution-grid-snake
-      - name: Install github-contribution-grid-snake
-        run: npm install -g github-contribution-grid-snake
-
       # Generate snake animation SVG
       - name: Generate Snake SVG
-        run: |
-          mkdir -p dist
-          github-contribution-grid-snake -u ${{ github.repository_owner }} -o dist/github-contribution-grid-snake.svg -c blue
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
 
       # Commit and push SVG to main branch
       - name: Commit and Push
