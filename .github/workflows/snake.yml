@@ -1,28 +1,27 @@
-
-name: Generate snake game
+name: Generate Snake Contribution Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  update-snake:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Generate Snake Contribution Graph
+        uses: platane/snk@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          first_token: ${{ secrets.first_token }}
-  
+          github_user_name: rajiv-rathod
+          # Optional settings
+          svg: true
+          scale: 3
+
+      - name: Commit and push Snake Contribution Graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'snake.svg'
+          message: 'Update Snake contribution graph'
