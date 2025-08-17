@@ -18,10 +18,12 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
+
+- name: Generate Snake SVG
+  uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: github-contribution-grid-snake.svg
 
       - name: Commit and Push
         run: |
