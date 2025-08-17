@@ -156,6 +156,6 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rajiv-rathod/output/dist/snake.svg" alt="Snake animation" />
 </p>
 
