@@ -1,0 +1,47 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:        # Allows manual trigger
+
+permissions:
+  contents: write   # Needed to push to main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # Allows using token for pushes
+
+      # Setup Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # Install snake animation tool
+      - name: Install snk
+        run: npm install -g @sutil/snk
+
+      # Generate snake animation SVG
+      - name: Generate Snake SVG
+        run: |
+          mkdir -p dist
+          snk -u ${{ github.repository_owner }} -o dist/github-contribution-grid-snake.svg -c blue
+
+      # Commit and push SVG to main branch
+      - name: Commit and Push
+        run: |
+          git config --global user.name "${{ github.repository_owner }}"
+          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.first_token }}
