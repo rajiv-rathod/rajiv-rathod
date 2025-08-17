@@ -12,6 +12,13 @@
 
 <p align="left">✨ Creating bugs since 2021  <br>📚 I'm currently learning Red Teaming, AI Security, and automation  <br>🎯 Goals: Build impactful security tools, gain independence, and grow as a developer  <br>🎲 Fun fact: I break things to learn how to fix them ⚡</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red--Team-Security-red?style=flat&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Security-blue?style=flat&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-grey?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
 ###
 
 <br clear="both">
@@ -21,10 +28,6 @@
 ###
 
 <h4 align="left">Front End:</h4>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -44,10 +47,6 @@
 
 <h4 align="left">Back End:</h4>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -66,12 +65,8 @@
 
 <h4 align="left">Cloud & DevOps:</h4>
 
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -83,10 +78,6 @@
 ###
 
 <h4 align="left">AI / ML:</h4>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
@@ -100,17 +91,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
 
 ###
 
 <h4 align="left">Tools & Frameworks:</h4>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -125,24 +110,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
 
-<h3 align="left">Socials:</h3>
+<h2 align="center">🚀 Featured Projects</h2>
+
+- 🔐 [Student Record System](http://studentrecord.rf.gd) – PHP + MySQL based student data manager  
+- 🤖 [Telegram Bots](https://rxd.my.canva.site/stealth-ai) – Multi-character, AI-powered group chat bots  
+- 🌌 [Astra Nova (ISRO LunarDEM)](https://github.com/adi-devv/ISRO-LunarDEM) – AI-driven gaming ecosystem + ISRO LunarDEM  
 
 ###
 
-<br clear="both">
+<h3 align="left">Socials:</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajiv-rathod/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="rajiv.yupp@gmail.com" target="_blank">
+  <a href="mailto:rajiv.yupp@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/1047122437839523882" target="_blank">
@@ -160,11 +149,10 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rajiv-rathod&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph" />
 </div>
+
 
 ###
 
 <img src="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/snake.svg" alt="Snake animation" />
-
-###
