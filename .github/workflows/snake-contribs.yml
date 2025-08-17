@@ -1,27 +1,40 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake Game
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch:
+  schedule:       # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write   # Needed to push to gh-pages branch
 
 jobs:
-  update-snake:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # Checkout the repository
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake Contribution Graph
-        uses: platane/snk@v2
+      # Setup Node.js environment
+      - uses: actions/setup-node@v3
         with:
-          with:
-  github_user_name: rajiv-rathod
-  svg: true
-  scale: 3
+          node-version: '20'
 
-      - name: Commit and push Snake Contribution Graph
-        uses: EndBug/add-and-commit@v9
+      # Install the snake animation tool globally
+      - name: Install snk
+        run: npm install -g @sutil/snk
+
+      # Generate snake animation SVG
+      - name: Generate Snake SVG
+        run: |
+          mkdir -p dist
+          snk -u ${{ github.repository_owner }} -o dist/github-contribution-grid-snake2.svg -c blue
+
+      # Deploy generated SVG to gh-pages branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v6
         with:
-          add: 'snake.svg'
-          message: 'Update Snake contribution graph'
+          github_token: ${{ secrets.first_token }}   # Use your personal access token
+          publish_dir: ./dist
+          publish_branch: gh-pages
