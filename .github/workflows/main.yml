@@ -18,18 +18,23 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: Generate Snake SVG
+        id: snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
 
-- name: Generate Snake SVG
-  uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: github-contribution-grid-snake.svg
+      # Move the output to a known path
+      - name: Move snake SVG
+        run: |
+          mkdir -p dist
+          mv ${{ steps.snake.outputs.svg }} dist/github-contribution-grid-snake.svg
 
       - name: Commit and Push
         run: |
           git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
-          git add github-contribution-grid-snake.svg
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Update snake animation"
           git push origin main
         env:
