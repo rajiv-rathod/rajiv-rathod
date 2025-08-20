@@ -82,11 +82,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajiv-rathod&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv-rathod&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&theme=tokyo-night&area=true&hide_border=true" height="280"/>
 </p>
 
