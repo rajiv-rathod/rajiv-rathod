@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
 </div>
 
+<div align="center">
+
+### 📑 Quick Navigation
+[🧑‍💻 About](#-about-me) • [🛡️ Security](#️-cybersecurity-arsenal) • [🛠️ Tech Stack](#️-tech-stack--tools) • [🚀 Projects](#-featured-projects) • [📊 Stats](#-github-analytics--activity) • [🎯 Current Work](#-what-im-working-on) • [🌐 Connect](#-lets-connect--collaborate)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -241,6 +248,15 @@ interface CurrentProjects {
 
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Random Dev Quote"/>
+
+### 📈 Weekly Development Breakdown
+```text
+🔐 Security Research    ████████████████████░   80%
+🤖 AI/ML Learning       ████████████████░░░░░   65%
+💻 Coding Projects      ██████████████░░░░░░░   55%
+📚 Reading & Research   ████████████░░░░░░░░░   45%
+🎯 CTF Challenges       ██████████░░░░░░░░░░░   35%
+```
 
 ### ⚡ Fun Facts
 🔥 **Lines of Code Written**: More than I can count (and debug)<br>
