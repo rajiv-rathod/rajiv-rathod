@@ -18,7 +18,15 @@
 <div align="center">
 
 ### 📑 Quick Navigation
-[🧑‍💻 About](#-about-me) • [🛡️ Security](#️-cybersecurity-arsenal) • [🛠️ Tech Stack](#️-tech-stack--tools) • [🚀 Projects](#-featured-projects) • [📊 Stats](#-github-analytics--activity) • [🎯 Current Work](#-what-im-working-on) • [🌐 Connect](#-lets-connect--collaborate)
+<p align="center">
+  <a href="#-about-me">🧑‍💻 About</a> • 
+  <a href="#️-cybersecurity-arsenal">🛡️ Security</a> • 
+  <a href="#️-tech-stack--tools">🛠️ Tech Stack</a> • 
+  <a href="#-featured-projects">🚀 Projects</a> • 
+  <a href="#-github-analytics--activity">📊 Stats</a> • 
+  <a href="#-what-im-working-on">🎯 Current Work</a> • 
+  <a href="#-lets-connect--collaborate">🌐 Connect</a>
+</p>
 
 </div>
 
@@ -89,75 +97,109 @@ class RajivRathod:
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
 ### 🌐 Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+</p>
 
 ### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
 
 ### 🤖 AI/ML & Security Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
 
 ### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **Stealth.AI** | AI-powered intelligent group chat bots for Telegram with advanced NLP capabilities | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | [🌐 Visit](https://rxd.my.canva.site/stealth-ai) |
-| 🌍 **Global Diplomacy Forum** | Youth-led platform fostering international dialogue through online Model UN conferences | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | [🌐 Visit](https://rxd.my.canva.site/gdf) |
-
+<table>
+<thead>
+<tr>
+<th align="center">Project</th>
+<th align="center">Description</th>
+<th align="center">Tech Stack</th>
+<th align="center">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">🤖 <strong>Stealth.AI</strong></td>
+<td align="center">AI-powered intelligent group chat bots for Telegram with advanced NLP capabilities</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+</td>
+<td align="center"><a href="https://rxd.my.canva.site/stealth-ai">🌐 Visit</a></td>
+</tr>
+<tr>
+<td align="center">🌍 <strong>Global Diplomacy Forum</strong></td>
+<td align="center">Youth-led platform fostering international dialogue through online Model UN conferences</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</td>
+<td align="center"><a href="https://rxd.my.canva.site/gdf">🌐 Visit</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 <div align="center">
-  <h3>🔥 Current Focus Areas</h3>
-  
-  ```mermaid
-  graph LR
-      A[🔐 Security Research] --> B[🤖 AI Security]
-      A --> C[🔴 Red Teaming]
-      B --> D[🛡️ ML Model Security]
-      C --> E[⚡ Automation Tools]
-      D --> F[🎯 Vulnerability Research]
-      E --> F
-  ```
+<h3>🔥 Current Focus Areas</h3>
+
+```mermaid
+graph LR
+    A[🔐 Security Research] --> B[🤖 AI Security]
+    A --> C[🔴 Red Teaming]
+    B --> D[🛡️ ML Model Security]
+    C --> E[⚡ Automation Tools]
+    D --> F[🎯 Vulnerability Research]
+    E --> F
+```
 </div>  
 
 ---
@@ -214,6 +256,9 @@ class RajivRathod:
 ## 🎯 What I'm Working On
 
 <div align="center">
+<table>
+<tr>
+<td>
 
 ```typescript
 interface CurrentProjects {
@@ -237,6 +282,9 @@ interface CurrentProjects {
 }
 ```
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -250,6 +298,10 @@ interface CurrentProjects {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Random Dev Quote"/>
 
 ### 📈 Weekly Development Breakdown
+<table align="center">
+<tr>
+<td>
+
 ```text
 🔐 Security Research    ████████████████████░   80%
 🤖 AI/ML Learning       ████████████████░░░░░   65%
@@ -257,6 +309,10 @@ interface CurrentProjects {
 📚 Reading & Research   ████████████░░░░░░░░░   45%
 🎯 CTF Challenges       ██████████░░░░░░░░░░░   35%
 ```
+
+</td>
+</tr>
+</table>
 
 ### ⚡ Fun Facts
 🔥 **Lines of Code Written**: More than I can count (and debug)<br>
@@ -274,10 +330,8 @@ interface CurrentProjects {
   <sub>Made with ❤️ and lots of ☕ by <a href="https://github.com/rajiv-rathod">@rajiv-rathod</a></sub>
 </p>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl+C Ctrl+V"/>
-</div>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl+C Ctrl+V"/>
 
 </div>
