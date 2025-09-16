@@ -1,18 +1,35 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=70&lines=Hack+%E2%80%A2+Adapt+%E2%80%A2+Evolve+%E2%80%A2+Excel+%F0%9F%9A%80;Security+Researcher+%26+AI+Enthusiast;Breaking+Things+to+Build+Better+Ones" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+I'm+Rajiv+Rathod+%F0%9F%91%8B;Security+Researcher+%7C+AI+Enthusiast;Hack+%E2%80%A2+Adapt+%E2%80%A2+Evolve+%E2%80%A2+Excel+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
-<p align="center">
-  <b>👋 Hi, I'm Rajiv Rathod</b><br>
-  🌍 A self-taught developer from <b>Muscat, Oman</b><br>
-  🔐 Passionate about <b>Cybersecurity</b>, <b>AI</b> & <b>Automation</b><br>
-  🎯 Currently exploring <b>Red Teaming</b> and <b>AI Security</b>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Arsenal&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header Wave"/>
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajiv-rathod&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajiv-rathod?label=Followers&style=for-the-badge&color=ff6b6b" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
+  
+<!-- Professional Introduction -->
+<h2>👋 Hi, I'm <span style="color: #FF6B6B;">Rajiv Rathod</span></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20Researcher-FF6B6B?style=for-the-badge&logoColor=white" alt="Security Researcher"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-4CAF50?style=for-the-badge&logoColor=white" alt="AI Enthusiast"/>
+  <img src="https://img.shields.io/badge/Developer-2196F3?style=for-the-badge&logoColor=white" alt="Developer"/>
+</p>
+
+<p align="center">
+  🌍 <strong>Based in Muscat, Oman</strong> | 🎯 <strong>Focused on Cybersecurity & AI</strong><br>
+  🔐 <strong>Passionate about Red Teaming</strong> | ⚡ <strong>Building Security Automation</strong><br>
+  🚀 <strong>Self-taught Developer since 2021</strong> | 🛡️ <strong>Breaking & Securing Systems</strong>
+</p>
+
+<!-- Dynamic Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajiv-rathod&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rajiv-rathod?label=Followers&style=for-the-badge&color=4CAF50" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-2196F3?style=for-the-badge" alt="Open to Collaborate" />
+</p>
+
 </div>
 
 <div align="center">
