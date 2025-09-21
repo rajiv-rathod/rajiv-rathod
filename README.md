@@ -259,64 +259,6 @@ skills = {
 
 ---
 
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-### 💬 Professional Networks
-
-<a href="https://www.linkedin.com/in/rajiv-rathod/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:rajiv.yupp@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-</a>&nbsp;
-<a href="https://discordapp.com/users/1047122437839523882" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
-</a>&nbsp;
-<a href="https://www.instagram.com/sk.rajiv_rathod/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-</a>
-
-### 📱 Developer Communities
-
-<a href="https://github.com/rajiv-rathod" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-</a>&nbsp;
-<a href="https://stackoverflow.com/users/rajiv-rathod" target="_blank">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" alt="Stack Overflow" />
-</a>&nbsp;
-<a href="https://dev.to/rajiv-rathod" target="_blank">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to" />
-</a>&nbsp;
-<a href="https://medium.com/@rajiv-rathod" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 🤝 Open for Opportunities
-
-| 💼 **Looking For** | 🎯 **Interested In** | 📝 **Available For** |
-|:---:|:---:|:---:|
-| Cybersecurity Roles | Red Team Positions | Consulting Projects |
-| AI/ML Projects | Security Research | Open Source Contributions |
-| Automation Solutions | Startup Opportunities | Technical Writing |
-
-</div>
-
-<div align="center">
-
-**📧 Business Inquiries:** [rajiv.yupp@gmail.com](mailto:rajiv.yupp@gmail.com)  
-**💬 Quick Chat:** [LinkedIn DM](https://www.linkedin.com/in/rajiv-rathod/)  
-**🔗 Portfolio:** [Coming Soon](https://github.com/rajiv-rathod)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
@@ -378,6 +320,64 @@ Linux          25 hrs 15 mins  ████████████████�
 Windows        6 hrs 45 mins   █████░░░░░░░░░░░░   21.1%
 ```
 <!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 Professional Networks
+
+<a href="https://www.linkedin.com/in/rajiv-rathod/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:rajiv.yupp@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+</a>&nbsp;
+<a href="https://discordapp.com/users/1047122437839523882" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+</a>&nbsp;
+<a href="https://www.instagram.com/sk.rajiv_rathod/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+
+### 📱 Developer Communities
+
+<a href="https://github.com/rajiv-rathod" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/rajiv-rathod" target="_blank">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" alt="Stack Overflow" />
+</a>&nbsp;
+<a href="https://dev.to/rajiv-rathod" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to" />
+</a>&nbsp;
+<a href="https://medium.com/@rajiv-rathod" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 🤝 Open for Opportunities
+
+| 💼 **Looking For** | 🎯 **Interested In** | 📝 **Available For** |
+|:---:|:---:|:---:|
+| Cybersecurity Roles | Red Team Positions | Consulting Projects |
+| AI/ML Projects | Security Research | Open Source Contributions |
+| Automation Solutions | Startup Opportunities | Technical Writing |
+
+</div>
+
+<div align="center">
+
+**📧 Business Inquiries:** [rajiv.yupp@gmail.com](mailto:rajiv.yupp@gmail.com)  
+**💬 Quick Chat:** [LinkedIn DM](https://www.linkedin.com/in/rajiv-rathod/)  
+**🔗 Portfolio:** [Coming Soon](https://github.com/rajiv-rathod)
 
 </div>
 
