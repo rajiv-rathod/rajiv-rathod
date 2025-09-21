@@ -1,22 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Rajiv+Rathod;Cybersecurity+Engineer;AI+%26+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=%2336BCF7&center=true&vCenter=true&width=700&lines=⚡+Rajiv+Rathod+⚡;🔐+Cybersecurity+Engineer+🔐;🤖+AI+%26+Automation+Specialist+🤖;💻+Full-Stack+Developer+💻" alt="Dynamic Title" />
+</div>
+
+<div align="center">
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,1&height=300&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Security%20Meets%20Innovation&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%23E06C75&center=true&vCenter=true&width=600&lines=Hack+%E2%80%A2+Adapt+%E2%80%A2+Evolve+%E2%80%A2+Excel+%F0%9F%9A%80;Breaking+barriers%2C+building+futures;Security+%7C+AI+%7C+Innovation" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%23E06C75&center=true&vCenter=true&width=800&lines=🔴+Hack+%E2%80%A2+🟡+Adapt+%E2%80%A2+🟢+Evolve+%E2%80%A2+🔵+Excel+🚀;⚡+Breaking+barriers%2C+building+futures+⚡;🛡️+Security+%7C+🧠+AI+%7C+💡+Innovation+🛡️;🌍+Transforming+ideas+into+reality+🌍" alt="Animated Subtitle" />
 </h1>
 
 <div align="center">
   
 [![Visitor Count](https://profile-counter.glitch.me/rajiv-rathod/count.svg)](https://github.com/rajiv-rathod)
+[![GitHub followers](https://img.shields.io/github/followers/rajiv-rathod?label=Follow&style=social)](https://github.com/rajiv-rathod)
+[![GitHub stars](https://img.shields.io/github/stars/rajiv-rathod?label=Stars&style=social)](https://github.com/rajiv-rathod)
 
 </div>
 
 <p align="center">
-  🌟 <b>Cybersecurity Engineer & AI Innovator</b> from <b>Muscat, Oman</b> 🌟<br>
+  🌟 <b>Elite Cybersecurity Engineer & AI Innovator</b> from <b>Muscat, Oman</b> 🌟<br>
   🎯 Passionate about <b>Red Teaming</b>, <b>AI Security</b>, and <b>Intelligent Automation</b><br>
-  ⚡ Transforming complex problems into elegant security solutions
+  ⚡ Transforming complex security challenges into elegant solutions that protect our digital future
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=%23FF6B6B&center=true&vCenter=true&width=600&lines=🎯+Currently+mastering+advanced+red+teaming;🧠+Researching+AI+security+vulnerabilities;⚙️+Building+next-gen+automation+tools;🌐+Contributing+to+open-source+security" alt="Current Status" />
+</div>
 
 ---
 
@@ -111,82 +122,143 @@ skills = {
 
 ---
 
-## 💻 Technology Stack & Expertise
+## 🌍 Interactive Technology Globe
 
-### Programming Languages
 <div align="center">
+  
+### 🌐 Spinning Technology Universe
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=%2336BCF7&center=true&vCenter=true&width=600&lines=🌍+My+Technology+Universe;⭐+Technologies+Orbiting+My+Skills;🚀+Spinning+Through+Innovation" alt="Tech Globe Title" />
+</p>
+
+<!-- Simulated 3D Spinning Globe with Technologies -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Core Technologies (Center of Globe) -->
+      <td align="center" valign="middle">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" alt="Python" title="Python" style="margin: 5px;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" alt="JavaScript" title="JavaScript" style="margin: 5px;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" alt="TypeScript" title="TypeScript" style="margin: 5px;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Orbital Layers -->
+### 🪐 Technology Orbital Layers
+
+<!-- Layer 1: Programming Core -->
+<div align="center">
+<h4>🌟 Core Programming Universe</h4>
+
+<img src="https://skillicons.dev/icons?i=python,js,php,bash,powershell&theme=dark" alt="Programming Languages" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23FFD700&center=true&vCenter=true&width=500&lines=Core+programming+languages+powering+my+universe" alt="Programming Core" />
+</p>
+</div>
+
+<!-- Layer 2: Frontend Orbit -->
+<div align="center">
+<h4>🎨 Frontend Development Constellation</h4>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&theme=dark" alt="Frontend Technologies" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%2361DAFB&center=true&vCenter=true&width=500&lines=Crafting+beautiful+user+experiences" alt="Frontend Orbit" />
+</p>
+</div>
+
+<!-- Layer 3: Backend & Framework Galaxy -->
+<div align="center">
+<h4>⚙️ Backend & Framework Galaxy</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel,express,django,flask&theme=dark" alt="Backend Technologies" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23339933&center=true&vCenter=true&width=500&lines=Building+robust+server-side+architectures" alt="Backend Galaxy" />
+</p>
+</div>
+
+<!-- Layer 4: AI/ML Dimension -->
+<div align="center">
+<h4>🧠 AI/ML Intelligence Dimension</h4>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI/ML Technologies" />
+<br><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23FF6F00&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+%26+Machine+Learning+mastery" alt="AI/ML Dimension" />
+</p>
+</div>
+
+<!-- Layer 5: Database Cosmos -->
+<div align="center">
+<h4>🗄️ Database Storage Cosmos</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&theme=dark" alt="Database Technologies" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%234479A1&center=true&vCenter=true&width=500&lines=Mastering+data+storage+%26+management+systems" alt="Database Cosmos" />
+</p>
+</div>
+
+<!-- Layer 6: Cloud Universe -->
+<div align="center">
+<h4>☁️ Cloud Infrastructure Universe</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark" alt="Cloud Technologies" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23232F3E&center=true&vCenter=true&width=500&lines=Orchestrating+cloud-native+solutions" alt="Cloud Universe" />
+</p>
+</div>
+
+<!-- Layer 7: Security & Tools Outer Ring -->
+<div align="center">
+<h4>🛡️ Security & DevOps Outer Ring</h4>
+
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,postman,github,gitlab&theme=dark" alt="Tools & Security" />
+<br><br>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23DC143C&center=true&vCenter=true&width=500&lines=Cybersecurity+arsenal+%26+development+tools" alt="Security Ring" />
+</p>
+</div>
+
+<!-- Interactive Globe Summary -->
+<div align="center">
+<h3>🌌 Technology Galaxy Overview</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=%2336BCF7&center=true&vCenter=true&width=800&lines=🌍+50%2B+Technologies+in+my+Universe;⚡+Full-Stack+%2B+Cybersecurity+%2B+AI;🚀+Continuously+expanding+my+tech+galaxy;🎯+Building+the+future%2C+one+commit+at+a+time" alt="Galaxy Overview" />
 
 </div>
 
-### Frontend & UI/UX
+<!-- Animated Skills Proficiency -->
 <div align="center">
+<h4>📊 Skills Proficiency Radar</h4>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```text
+      Security        AI/ML           Full-Stack
+         ★★★★★         ★★★★★            ★★★★★
+    
+    Cloud/DevOps    Automation      Problem Solving
+       ★★★★☆         ★★★★★            ★★★★★
+```
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&color=%23FFD700&center=true&vCenter=true&width=400&lines=★+Expert+Level+★;☆+Advanced+Level+☆;Continuously+leveling+up!" alt="Skills Level" />
+</p>
 </div>
-
-### Backend & Frameworks
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
-### AI/ML & Data Science
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
-### Databases & Storage
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-### Cloud & DevOps
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-### Tools & Systems
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -385,9 +457,17 @@ Windows        6 hrs 45 mins   █████░░░░░░░░░░░�
 
 <div align="center">
 
-### 🐍 Contribution Activity
+### 🐍 GitHub Contribution Snake - Eating My Commits!
 
-<img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation - Eating my commits!" src="https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=%23FF6B6B&center=true&vCenter=true&width=400&lines=🐍+Snake+eating+my+commits!;📊+Visualizing+my+coding+journey;🎯+Every+dot+represents+dedication" alt="Snake Description" />
+</p>
 
 </div>
 
@@ -395,18 +475,49 @@ Windows        6 hrs 45 mins   █████░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Footer" />
+<!-- Animated Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Footer Banner"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=%2336BCF7&center=true&vCenter=true&width=800&lines=🚀+Thanks+for+exploring+my+digital+universe!;🤝+Let's+collaborate+and+build+something+amazing!;⭐+Always+learning%2C+always+growing%2C+always+securing!;🌍+Together%2C+we+can+make+the+digital+world+safer!" alt="Animated Footer" />
 
 ### 💭 Professional Philosophy
 
-*"In cybersecurity, you're not just protecting data—you're safeguarding dreams, innovations, and the digital future we're all building together."*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=%23FFD700&center=true&vCenter=true&width=900&lines=%22In+cybersecurity%2C+you're+not+just+protecting+data%E2%80%94;you're+safeguarding+dreams%2C+innovations%2C;and+the+digital+future+we're+all+building+together.%22" alt="Philosophy Quote" />
+</div>
 
 **⚡ Breaking barriers • Building futures • Securing tomorrow ⚡**
 
 ---
 
-<sub>🔄 **Last Updated:** January 2024 | 📍 **Location:** Muscat, Oman | 🕒 **Timezone:** GMT+4</sub>
+### 🎯 Ready to Connect?
 
-<img src="https://komarev.com/ghpvc/?username=rajiv-rathod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=%2300D4AA&center=true&vCenter=true&width=600&lines=🔥+Available+for+exciting+opportunities!;💼+Open+to+cybersecurity+consulting;🚀+Ready+for+innovative+collaborations;📧+Drop+me+a+message!" alt="Call to Action" />
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔄_Last_Updated-January_2024-blue?style=for-the-badge" alt="Last Updated" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📍_Location-Muscat,_Oman-green?style=for-the-badge" alt="Location" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🕒_Timezone-GMT+4-orange?style=for-the-badge" alt="Timezone" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rajiv-rathod&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=%23888888&center=true&vCenter=true&width=500&lines=Made+with+❤️+and+lots+of+☕;Code+%7C+Secure+%7C+Innovate+%7C+Repeat;🌟+Star+this+repo+if+you+like+it!" alt="Made With Love" />
+</div>
 
 </div>
