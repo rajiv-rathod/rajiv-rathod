@@ -7,6 +7,10 @@
 
 ---
 
+
+![rajiv-rathod's GitHub Banner](https://raw.githubusercontent.com/rajiv-rathod/rajiv-rathod/main/banner.png)
+
+
 ## 👨‍💻 About Me
 
 ✨ Creating bugs since **2021**  
