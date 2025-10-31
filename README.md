@@ -6,9 +6,7 @@
 </p>
 
 ---
-## 👨‍💻 About Me
-
-✨ Creating bugs since **2021**  
+## 👨‍💻 About Me  
 📚 Currently diving into **Red Teaming, AI Security & Automation**  
 🎯 Goals → Build impactful security tools & grow as a developer  
 ⚡ Fun fact → I break things to learn how to fix them  
@@ -78,7 +76,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## Snake
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&theme=tokyo-night&area=true&hide_border=true" height="280"/>
