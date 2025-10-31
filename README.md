@@ -76,14 +76,6 @@
 
 ---
 
-## Snake
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-rathod&theme=tokyo-night&area=true&hide_border=true" height="280"/>
-</p>
-
----
-
 <p align="center"><i>⚡ Breaking, fixing & building — one bug at a time ⚡</i></p>
 
 ###
